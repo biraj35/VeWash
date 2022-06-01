@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978705133172",
+    "project_id": "vewash-3488b",
+    "storage_bucket": "vewash-3488b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978705133172:android:7cd97e4801eb2378aaeb21",
+        "android_client_info": {
+          "package_name": "com.eliteinfotech.vewash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978705133172-gue9nmfuqimedk57j7ti2lj3o34c4a3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1YLnHgiH1LcIB0HEXj-bBPajXJt2dMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978705133172-gue9nmfuqimedk57j7ti2lj3o34c4a3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
